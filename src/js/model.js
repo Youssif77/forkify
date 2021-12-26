@@ -148,4 +148,9 @@ function init() {
 
 init();
 
-f;
+function clearBookmarks() {
+  localStorage.removeItem('bookmarks');
+}
+
+// NOTE: For dev
+// clearBookmarks();
