@@ -10,7 +10,7 @@ https://forkify-yhf.netlify.app/
 
 **Client:** Native JavaScript with MVC pattern, Sass
 
-**devDependencies:** parcel@2
+**Build tools:** parcel@2
 
 ## Run Locally
 
